@@ -1,60 +1,50 @@
-📦 My Rust Project
+# 📦 My Rust Project
 A simple Rust project built as part of my learning journey.
 just want to learn more after the web language to system language
 This project helps me practice Rust basics like ownership, borrowing, and modules, while building something functional.
 
-🚀 Features
+# 🚀 Features
 Written in pure Rust 🦀
 
 Beginner-friendly code structure
 
-Example of:
+# Example of:
 
-Reading user input
+*Reading user input
 
-Using cargo for building & running
+*Using cargo for building & running
 
-Basic error handling
+*Basic error handling
 
-🛠️ Requirements
+# 🛠️ Requirements
+
 Rust installed
 You can check if Rust is installed:
-
-bash
-Copy
-Edit
 rustc --version
 cargo (comes with Rust)
-Check with:
 
-bash
-Copy
-Edit
+Check with:
 cargo --version
-📂 Project Structure
-perl
-Copy
-Edit
+
+# 📂 Project Structure
+
 my-rust-project/
 ├── src/
 │   ├── main.rs       # Entry point
 │   └── lib.rs        # (Optional) Reusable code
 ├── Cargo.toml        # Project config & dependencies
 └── README.md
-▶️ How to Run
-bash
-Copy
-Edit
+
+
+* ▶️ How to Run
+
 # Clone the project
-git clone https://github.com/username/my-rust-project.git
-cd my-rust-project
+git clone https://github.com/sanjugit11/rust_by_example.git
+cd 0example
 
 # Build and run
 cargo run
 🧪 Example Output
-bash
-Copy
-Edit
+
 $ cargo run
-Enter your name: Sanju
-Hello, Sanju! Welcome to Rust 🦀
+HERE we go
