@@ -32,11 +32,11 @@ my-rust-project/
 
 ├── src/
 
-│   ├── main.rs       # Entry point
+│   ├── main.rs                          # Entry point
 
-│   └── lib.rs        # (Optional) Reusable code
+│   └── lib.rs                           # (Optional) Reusable code
 
-├── Cargo.toml        # Project config & dependencies
+├── Cargo.toml                           # Project config & dependencies
 
 └── README.md
 
