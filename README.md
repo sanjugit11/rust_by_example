@@ -36,15 +36,14 @@ my-rust-project/
 └── README.md
 
 
-* ▶️ How to Run
+#  ▶️ How to Run
 
-# Clone the project
+*Clone the project
 git clone https://github.com/sanjugit11/rust_by_example.git
 cd 0example
 
 # Build and run
-cargo run
-🧪 Example Output
-
 $ cargo run
-HERE we go
+
+
+HERE we go....................
