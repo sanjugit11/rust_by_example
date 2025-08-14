@@ -29,10 +29,15 @@ cargo --version
 # 📂 Project Structure
 
 my-rust-project/
+
 ├── src/
+
 │   ├── main.rs       # Entry point
+
 │   └── lib.rs        # (Optional) Reusable code
+
 ├── Cargo.toml        # Project config & dependencies
+
 └── README.md
 
 
