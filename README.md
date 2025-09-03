@@ -45,7 +45,8 @@ my-rust-project/
 
 *Clone the project
 git clone https://github.com/sanjugit11/rust_by_example.git
-cd 0example
+
+cd Folder_name
 
 # Build and run
 $ cargo run
